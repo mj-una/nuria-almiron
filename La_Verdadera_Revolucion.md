@@ -1,11 +1,10 @@
 <br><br>
 
-# La Verdadera Revolución
+# La Verdadera Revolución:<br>Historia del nacimiento del interface gráfico<br>y la posterior humanización de la informática.
 
-### Historia del nacimiento del interface gráfico y la posterior humanización de la informática.<br>¿De dónde salen el PC con Windows, el Macintosh o la World Wide Web de Internet?
+### ¿De dónde salen el PC con Windows, el Macintosh o la World Wide Web de Internet?
 
-### _Núria Almiron_
-### _1998_
+### _Núria Almiron_<br>_1998_
 
 <br><br>
 
@@ -68,8 +67,9 @@ De la antiinterfaz a la interfaz humana pasando por la interfaz gráfica: Sínte
 [Ir a CAPITULO 18](#capitulo-18)<br>
 ¿Y después qué? Claves para entender el futuro
 
-[Ir a CIERRE](#cierre)<br>
-Cronología Y Bibliografía
+[Ir a CRONOLOGIA](#cronologia)<br>
+
+[Ir a BIBLIOGRAFIA](#bibliografia)<br>
 
 <br><br>
 
@@ -180,8 +180,6 @@ Fin Capítulo 1.<br>
 ## CAPITULO 2
 
 ### Vannebar Bush y el conocimiento acumulado por la humanidad
-
-A record, if it is to be useful to science, must be continuously extended, it must be stored, and above all it must be consulted. (...) Presumably man's spirit should be elevated if he can better review his shady past and analyze more completely and objectively his present problems. He has built a civilization so complex that he needs to mechanize his record more fully if he is to push his experiment to its logical conclusion and not merely become bogged down part way there by overtaxing his limited memory.
 
 Una información, para que sea útil a la ciencia, debe ser continuamente ampliada, debe ser guardada y, por encima de todo, debe ser consultada. (...). Presumiblemente, el espíritu del hombre debería elevarse si puede revisar su turbio pasado y analizar de forma más completa y objetiva sus problemas presentes. Ha construido una civilización tan compleja que necesita mecanizar su información por completo si quiere llevar sus experimentos a su conclusión lógica superando los límites de su memoria y no quedar simplemente empantanado a medio camino.
 
@@ -426,12 +424,12 @@ A pesar de la madurez del término "hipertexto", su máxima popularización no l
 
 Ted Nelson era implacable con la informática que podríamos denominar "del gran hermano", aquellos sistemas que encorsetaban al usuario hasta el punto de convertirse en fines en sí mismos ­conseguir aprender a utilizarlos­ más que en medios ­ser herramientas para ayudarnos a pensar. Tiranía, fascismo o paternalismo eran términos habituales en su vocabulario a la hora de recriminarles su dificultad e irracionalidad. Por contra, Nelson abogaba por sistemas tan sencillos que cualquiera pudiera usarlos pero cuya sencillez no implicaba una reducción de sus capacidades y potencia.
 
-Fin Capítulo 1.<br>
+Fin Capítulo 6.<br>
 [Volver a Indice](#indice)
 
 <br><br>
 
-## CAPITULO 2
+## CAPITULO 6
 
 ### Alan Kay y la metáfora del escritorio
 
@@ -615,11 +613,7 @@ Fin Capítulo 8.<br>
 
 ### El Altair y el Homebrew Computer Club
 
-It's not like we were all smart enough to see a revolution coming. Back then, I thought there might be a revolution in opening your garage door, balancing your checkbook, keeping your recipes, that sort of thing. There are a milion people who study markets and analyze economic trends, people who are more briliant than I am, people who worked for companies like Digital Equipment and IBM and Hewlett-Packard. None of them foresaw what was going to happen, either.
-
-No es que todos fuéramos tan inteligentes como para ver que se avecinaba una revolución. En aquel entonces, para mi, abrir la puerta del garaje, cuadrar el talonario, conservar mis recetas y cosas así podían ser una revolución. Hay millones de personas que estudian los mercados y analizan las tendencias económicas, personas más brillantes que yo, personas que trabajan para empresas como Digital Equipment e IBM y Hewlett-Pakard. Ninguna de ellas tampoco previó lo que iba a suceder.
-
-### Steve Wozniak
+_No es que todos fuéramos tan inteligentes como para ver que se avecinaba una revolución. En aquel entonces, para mi, abrir la puerta del garaje, cuadrar el talonario, conservar mis recetas y cosas así podían ser una revolución. Hay millones de personas que estudian los mercados y analizan las tendencias económicas, personas más brillantes que yo, personas que trabajan para empresas como Digital Equipment e IBM y Hewlett-Pakard. Ninguna de ellas tampoco previó lo que iba a suceder._<br>Steve Wozniak
 
 Nuestra historia de la humanización de la informática no estaría completa si no recordáramos a dos de los principales impulsores del fenómeno de la informática personal: el Altair, el primer ordenador personal en ser un éxito comercial, y el colectivo de ultraentusiastas de la tecnología que, completamente al margen de las grandes corporaciones con recursos, ayudarían a evolucionar la informática. Colectivo que se refleja en los miembros de las primeras asociaciones o clubes de informática y especialmente en los primeros hackers, mal traducidos como piratas informáticos.
 
@@ -671,12 +665,12 @@ De la anticultura, el antisistema y el antigobierno a la multinacional
 
 Para los phreakers, defraudar a la compañía telefónica era casi un derecho de todos los ciudadanos, tal era su fobia contra esta gran corporación. Sin embargo, algunas de aquellas jóvenes mentes rebeldes y antisistema se desvincularían paulatinamente de esta ideología para desarrollar un nuevo espíritu empresarial: el de las empresas nacidas en garajes y convertidas en multinacionales.
 
-Fin Capítulo 10.<br>
+Fin Capítulo 9.<br>
 [Volver a Indice](#indice)
 
 <br><br>
  
-## CAPITULO 11
+## CAPITULO 10
 
 ### Dan Bricklin, Bob Frankston y el VisiCalc
 
@@ -1036,7 +1030,7 @@ Fin Capítulo 15.<br>
 
 <br><br> 
 
-## Capítulo 16
+## CAPITULO 16
 
 ### Y el resto del mundo cambió: Windows e Internet
 
@@ -1138,11 +1132,7 @@ Fin Capítulo 17.<br>
 
 ### ¿Y después qué? Claves para entender el futuro
 
-In the future, people will need to work naturally at their homes, on the train, on airplanes, and in fast-food restaurants between appointments, with full access to their information space and their friends and coworkers. Their computers will become part of their lives, as natural an extension of their minds as a pen or pencil is of their bodies. They will need the kind of harmonious environment (...).
-
-En el futuro, la gente necesitará trabajar de forma natural en sus casas, en el ferrocarril, en los aviones y en los restaurantes de comida rápida, con acceso completo a su espacio de información y a sus amigos y compañeros de trabajo. Sus ordenadores se convertirán en parte de sus vidas, una extensión natural de sus mentes como un lápiz o un bolígrafo lo son de sus cuerpos. Necesitarán el tipo de entorno armonioso (...)
-
-### Bruce Tognazzini.
+_En el futuro, la gente necesitará trabajar de forma natural en sus casas, en el ferrocarril, en los aviones y en los restaurantes de comida rápida, con acceso completo a su espacio de información y a sus amigos y compañeros de trabajo. Sus ordenadores se convertirán en parte de sus vidas, una extensión natural de sus mentes como un lápiz o un bolígrafo lo son de sus cuerpos. Necesitarán el tipo de entorno armonioso (...)_<br>Bruce Tognazzini.
 
 Y lo único que queda ya por preguntarnos es a lo que hace referencia el título de este capítulo. ¿Y después qué? o más bien ¿y ahora qué? porque en pocas áreas el "mañana" se convierte tan rápidamente en "ahora".
 
@@ -1192,350 +1182,201 @@ Y, finalmente, debemos ser capaces de romper con las ideas tradicionales de lo q
 
 Las nuevas formas de acceso a la información, la integración de nuestro entorno de trabajo cotidiano a ellas, la necesidad de personalizar los espacios de trabajo y la obligación de replantearnos muchos de los mecanismos de funcionamiento actuales son sólo algunas de las claves que esconden lo que algunos han dado en llamar la "próxima revolución", la que supere el concepto actual basado, en el fondo, en una metáfora imaginada hace más de veinte años.
 
-
 Fin Capítulo 18.<br>
 [Volver a Indice](#indice)
 
 <br><br>
 
-## CIERRE
+## CRONOLOGIA
 
-### Cronología
+### Fechas para recordar
 
-Fechas para recordar
+- **Abaco.** Tablero que se utilizaba para realizar operaciones matemáticas mediante bolas que se trasladaban de un extremo a otro de unas cuerdas. Fue utilizado durante más de 2.000 años hasta la aparición de las primeras calculadoras.
 
-- Abaco. Tablero que se utilizaba para realizar operaciones matemáticas mediante bolas que se trasladaban de un extremo a otro de unas cuerdas. Fue utilizado durante más de 2.000 años hasta la aparición de las primeras calculadoras.
+- **1642: Primeras calculadoras.** Blaise Pascal construye la primera calculadora aunque sólo era capaz de realizar sumas. En 1791 Gottfried Wilhelm von Liebniz desarrolló un modelo que ya podía multiplicar.
 
-- 1642 Primeras calculadoras. Blaise Pascal construye la primera calculadora aunque sólo era capaz de realizar sumas. En 1791 Gottfried Wilhelm von Liebniz desarrolló un modelo que ya podía multiplicar.
+- **1820: Primera calculadora electrónica.** Tomas of Colmar inventa la primera calculadora mecánica que sería un éxito comercial. Este aparato sumaba, restaba, multiplicaba y dividía.
 
-- 1820 Primera calculadora electrónica. Tomas of Colmar inventa la primera calculadora mecánica que sería un éxito comercial. Este aparato sumaba, restaba, multiplicaba y dividía.
+- **1823: Máquinas diferencial y analítica.** Charles Babbage construyó un artefacto completamente automático que definió como motor diferencial y que funcionaba a vapor e imprimía los resultados en tablas siguiendo una serie de instrucciones. En 1833, construiría un modelo más avanzado que denominaría analítico y que ha sido considerado como el primer ordenador digital mecánicamente automatizado. La máquina se controlaba completamente mediante programas e imprimía sus resultados en fichas perforadas.
 
-- 1823 Máquinas diferencial y analítica. Charles Babbage construyó un artefacto completamente automático que definió como motor diferencial y que funcionaba a vapor e imprimía los resultados en tablas siguiendo una serie de instrucciones. En 1833, construiría un modelo más avanzado que denominaría analítico y que ha sido considerado como el primer ordenador digital mecánicamente automatizado. La máquina se controlaba completamente mediante programas e imprimía sus resultados en fichas perforadas.
+- **1930: El integrador diferencial.** Vannebar Bush construyó un integrador diferencial, un paso intermedio electromecánico a camino de los ordenadores de tarjetas perforadas dominantes y el ENIAC, el primer ordenador electrónico.
 
-- 1930 El integrador diferencial. Vannebar Bush construyó un integrador diferencial, un paso intermedio electromecánico a camino de los ordenadores de tarjetas perforadas dominantes y el ENIAC, el primer ordenador electrónico.
+- **1935-40: Consolidación de las tarjetas perforadas.** Hacia finales de 1930, las calculadoras u ordenadores con tarjetas perforadas alcanzaron cierto grado de consolidación y puede decirse que eran el estándar, un estándar liderado por una empresa que erigiría a partir de ello todo un imperio: IBM.
 
-- 1935-40 Consolidación de las tarjetas perforadas. Hacia finales de 1930, las calculadoras u ordenadores con tarjetas perforadas alcanzaron cierto grado de consolidación y puede decirse que eran el estándar, un estándar liderado por una empresa que erigiría a partir de ello todo un imperio: IBM.
+- **1942: El ENIAC.** Presper Eckerts y John W. Mauchly de la escuela Moore de Ingeniería eléctrica de la Universidad de Pensilvania desarrollan su propio integrador diferencial que acabaría resultando la primera máquina electrónica, el ENIAC (Electronic Numerical Integrator and Computer). Primer ordenador electrónico considerado la primera generación de ordenadores. Utilizaba tarjetas perforadas, tubos, también llamados válvulas, al vacío y pesaba treinta toneladas.
 
-- 1942 El ENIAC. Presper Eckerts y John W. Mauchly de la escuela Moore de Ingeniería eléctrica de la Universidad de Pensilvania desarrollan su propio integrador diferencial que acabaría resultando la primera máquina electrónica, el ENIAC (Electronic Numerical Integrator and Computer). Primer ordenador electrónico considerado la primera generación de ordenadores. Utilizaba tarjetas perforadas, tubos, también llamados válvulas, al vacío y pesaba treinta toneladas.
+- **1945: Vannebar Bush publica "As we may think".** Ensayo crucial que inspiraría a muchos científicos posteriores y en el cual Bush preconizaba la nueva forma de abordar la consulta, almacenamiento y recuperación de la información ante la creciente cantidad de conocimientos acumulados por la humanidad. Bush fue capaz de imaginar conceptos tan actuales como navegar por un ciberespacio de información, disponer de enlaces de conexión entre informaciones relacionadas y utilizar el pensamiento asociativo.
 
-- 1945 Vannebar Bush publica "As we may think". Ensayo crucial que inspiraría a muchos científicos posteriores y en el cual Bush preconizaba la nueva forma de abordar la consulta, almacenamiento y recuperación de la información ante la creciente cantidad de conocimientos acumulados por la humanidad. Bush fue capaz de imaginar conceptos tan actuales como navegar por un ciberespacio de información, disponer de enlaces de conexión entre informaciones relacionadas y utilizar el pensamiento asociativo.
+- **1947: Nace el transistor.** William Shockley de los laboratorios telefónicos Bell inventa el transistor, pequeños pedazos de un material semiconductor que sustituirían a los tubos al vacío y posibilitarían la creación de ordenadores más pequeños y baratos.
 
-- 1947 Nace el transistor. William Shockley de los laboratorios telefónicos Bell inventa el transistor, pequeños pedazos de un material semiconductor que sustituirían a los tubos al vacío y posibilitarían la creación de ordenadores más pequeños y baratos.
+- **1963: Ivan Sutherland diseña el Sketchpad como tesis doctoral.** A principios de la década de los setenta, Ivan Sutherland diseñó el primer programa de dibujo para ordenador. El Sketchpad demostraría la potencial versatilidad de los ordenadores.
 
-- 1963 Ivan Sutherland diseña el Sketchpad como tesis doctoral. A principios de la década de los setenta, Ivan Sutherland diseñó el primer programa de dibujo para ordenador. El Sketchpad demostraría la potencial versatilidad de los ordenadores.
+- **1965: Ted Nelson acuña el término hipertexto.** A mediados de la década de los sesenta, Nelson inventa el término Hipertexto para definir una forma de escritura no secuencial que entrelaza el texto y permite trazar al lector su propio camino a través de la información. La mayor expresión de este concepto se encuentra en la actualidad en la World Wide Web de Internet.
 
-- 1965 Ted Nelson acuña el término hipertexto. A mediados de la década de los sesenta, Nelson inventa el término Hipertexto para definir una forma de escritura no secuencial que entrelaza el texto y permite trazar al lector su propio camino a través de la información. La mayor expresión de este concepto se encuentra en la actualidad en la World Wide Web de Internet.
+- **1968: Douglas Engelbart demuestra el primer sistema gráfico.** Primera demostración pública de un sistema operativo con ventanas por entre las cuales se navegaba mediante un teclado y un ratón. Douglas Engelbart había creado el Augmentation Research Center en el seno del Stanford Research Institute, un centro de investigación basado en la necesidad de incrementar el intelecto humano. En este centro nacerían los principales conceptos con los que trabajan todos los sistemas operativos gráficos actuales ­las ventanas, el ratón, el trabajo en red, el correo electrónico­ y en los que se inspiraría el PARC, nutrido en parte con algunos investigadores procedentes del SRI de Engelbart, como por ejemplo Bill English, coautor junto con Engelbart del invento del ratón.
 
-- 1968 Douglas Engelbart demuestra el primer sistema gráfico. Primera demostración pública de un sistema operativo con ventanas por entre las cuales se navegaba mediante un teclado y un ratón. Douglas Engelbart había creado el Augmentation Research Center en el seno del Stanford Research Institute, un centro de investigación basado en la necesidad de incrementar el intelecto humano. En este centro nacerían los principales conceptos con los que trabajan todos los sistemas operativos gráficos actuales ­las ventanas, el ratón, el trabajo en red, el correo electrónico­ y en los que se inspiraría el PARC, nutrido en parte con algunos investigadores procedentes del SRI de Engelbart, como por ejemplo Bill English, coautor junto con Engelbart del invento del ratón.
+- **1970: Xerox crea el PARC.** Xerox funda el Palo Alto Research Center, un centro que aglutinaría a los cerebros informáticos más destacados del mundo y del que surgirían buena parte de los conceptos con los que trabajan los ordenadores modernos. La función de este centro no era poca: inventar el futuro.
 
-- 1970 Xerox crea el PARC. Xerox funda el Palo Alto Research Center, un centro que aglutinaría a los cerebros informáticos más destacados del mundo y del que surgirían buena parte de los conceptos con los que trabajan los ordenadores modernos. La función de este centro no era poca: inventar el futuro.
+- **1970: Alan Kay funda el Learning Research Group.** En este centro fundado en el PARC (Palo Alto Research Center), Kay estudiará la forma de facilitar el uso de los ordenadores y de implementar su visión de lo que debería ser un ordenador personal, el DynaBook.
 
-- 1970 Alan Kay funda el Learning Research Group. En este centro fundado en el PARC (Palo Alto Research Center), Kay estudiará la forma de facilitar el uso de los ordenadores y de implementar su visión de lo que debería ser un ordenador personal, el DynaBook.
+- **1971: Nace el microprocesador.** Intel inventa el microprocesador también denominado circuito integrado o chip y que permitiría el nacimiento de la informática personal. En 1972, el primer chip capaz de procesar 8 bits, suficiente para representar números y letras, sería el disparo de salida. Con la posibilidad de colocar todos los circuitos en un sólo chip y la capacidad de manejar números y letras nacería la cuarta generación de ordenadores.
 
-- 1971 Nace el microprocesador. Intel inventa el microprocesador también denominado circuito integrado o chip y que permitiría el nacimiento de la informática personal. En 1972, el primer chip capaz de procesar 8 bits, suficiente para representar números y letras, sería el disparo de salida. Con la posibilidad de colocar todos los circuitos en un sólo chip y la capacidad de manejar números y letras nacería la cuarta generación de ordenadores.
+- **1971: Alan Kay imagina la metáfora del escritorio.** Buscando la manera de reducir la hostilidad que generaban los interfaces de los ordenadores del momento, Alan Kay inventaría la idea de representar un escritorio de trabajo en la pantalla como forma de interactuar con ellos. Tras sucesivas mejoras y lavados de cara, puede decirse que actualmente aún trabajamos basados en esta metáfora.
 
-- 1971 Alan Kay imagina la metáfora del escritorio. Buscando la manera de reducir la hostilidad que generaban los interfaces de los ordenadores del momento, Alan Kay inventaría la idea de representar un escritorio de trabajo en la pantalla como forma de interactuar con ellos. Tras sucesivas mejoras y lavados de cara, puede decirse que actualmente aún trabajamos basados en esta metáfora.
+- **1973: Nace el Alto en el PARC.** El PARC plasma todos sus inventos en un primer ordenador que denominará el Alto pero cuya comercialización será inviable. El Alto será el primer ordenador con un interface gráfico del usuario pero no saldría del laboratorio.
 
-- 1973 Nace el Alto en el PARC. El PARC plasma todos sus inventos en un primer ordenador que denominará el Alto pero cuya comercialización será inviable. El Alto será el primer ordenador con un interface gráfico del usuario pero no saldría del laboratorio.
+- **1975: Aparece el Altair 8800.** Primer ordenador personal que sería un éxito comercial. Se vendía en forma de kit, es decir, con todos sus componentes por separado. El usuario tenía que montarlo y hacerse sus propios programas, y aunque no disponía de un interface gráfico ni nada que se le pareciese, tuvo el honor de ser el primer ordenador personal en comercializarse con éxito y motivaría a toda una generación de futuros informáticos.
 
-- 1975 Aparece el Altair 8800. Primer ordenador personal que sería un éxito comercial. Se vendía en forma de kit, es decir, con todos sus componentes por separado. El usuario tenía que montarlo y hacerse sus propios programas, y aunque no disponía de un interface gráfico ni nada que se le pareciese, tuvo el honor de ser el primer ordenador personal en comercializarse con éxito y motivaría a toda una generación de futuros informáticos.
+- **1975: Nace el Homebrew Computer Club.** Club formado por jóvenes entusiastas de la tecnología nacido a raíz de la aparición del Altair. De su seno saldrían algunos de los grandes empresarios e impulsores de la siguiente generación informática, como los creadores de Microsoft o Apple Computer, entre otros.
 
-- 1975 Nace el Homebrew Computer Club. Club formado por jóvenes entusiastas de la tecnología nacido a raíz de la aparición del Altair. De su seno saldrían algunos de los grandes empresarios e impulsores de la siguiente generación informática, como los creadores de Microsoft o Apple Computer, entre otros.
+- **1978: Aparece VisiCalc, la primera hoja de cálculo.** Dan Bricklin y Bob Frankston desarrollan el primer programa en plasmar la noción de la metáfora. Se trataba de una hoja de cálculo diseñada inicialmente para el Apple II y que ayudaría a vender un montón de estas máquinas y a introducir el ordenador personal en las pequeñas y medianas empresas.
 
-- 1978 Aparece VisiCalc, la primera hoja de cálculo. Dan Bricklin y Bob Frankston desarrollan el primer programa en plasmar la noción de la metáfora. Se trataba de una hoja de cálculo diseñada inicialmente para el Apple II y que ayudaría a vender un montón de estas máquinas y a introducir el ordenador personal en las pequeñas y medianas empresas.
+- **1981: Aparece el Star.** El PARC lanza su segundo producto en forma de un ordenador que pretendía superar los problemas del Alto pero que tampoco conseguiría rentabilidad comercial. El Star era aún excesivamente caro para lo avanzado de su planteamiento pero definiría buena parte de los conceptos utilizados en el diseño posterior del interface gráfico del usuario.
 
-- 1981 Aparece el Star. El PARC lanza su segundo producto en forma de un ordenador que pretendía superar los problemas del Alto pero que tampoco conseguiría rentabilidad comercial. El Star era aún excesivamente caro para lo avanzado de su planteamiento pero definiría buena parte de los conceptos utilizados en el diseño posterior del interface gráfico del usuario.
+- **1981: IBM entra en el mercado de los ordenadores personales.** IBM lanza el PC, siglas de "personal computer" pero que pasarían a ser sinónimo del ordenador personal basado en un procesador Intel. El gigante azul, como se conoce popularmente a esta empresa, decidió entrar en el mercado del ordenador personal ante la erosión que su principal área de negocio , la de los mainframes, estaba sufriendo. Sin embargo, el lanzamiento de una arquitectura abierta con un sistema operativo licenciable, el MS-DOS, llevó a la explosión de un mercado de compatibles IBM, los clónicos, que a partir de la segunda década de los ochenta reducirían enormemente la cuota de mercado del propio creador del PC.
 
-- 1981 IBM entra en el mercado de los ordenadores personalesIBM lanza el PC, siglas de "personal computer" pero que pasarían a ser sinónimo del ordenador personal basado en un procesador Intel. El gigante azul, como se conoce popularmente a esta empresa, decidió entrar en el mercado del ordenador personal ante la erosión que su principal área de negocio , la de los mainframes, estaba sufriendo. Sin embargo, el lanzamiento de una arquitectura abierta con un sistema operativo licenciable, el MS-DOS, llevó a la explosión de un mercado de compatibles IBM, los clónicos, que a partir de la segunda década de los ochenta reducirían enormemente la cuota de mercado del propio creador del PC.
+- **1983. Apple presenta el Lisa.** Apple lanza su primer intento de revolucionar la informática personal. El Lisa sería el primer ordenador en adoptar gran parte de las innovaciones desarrolladas en el PARC de Xerox. Sin embargo, su elevado precio y adelantado planteamiento no permitió que triunfara como merecía.
 
-- 1983 Apple presenta el Lisa. Apple lanza su primer intento de revolucionar la informática personal. El Lisa sería el primer ordenador en adoptar gran parte de las innovaciones desarrolladas en el PARC de Xerox. Sin embargo, su elevado precio y adelantado planteamiento no permitió que triunfara como merecía.
+- **1984: Aparece el Macintosh de Apple.** Apple revolucionó el mercado de la informática personal con este ordenador que ha sido fuente de inspiración para el resto de la industria. El Macintosh fue el primer ordenador con un interface gráfico del usuario en triunfar en el mercado. Su facilidad de uso y encanto lo convirtieron en un producto único y revolucionario. El Macintosh no sólo implementaría un interface gráfico como el inventado en el PARC sino que sería además un sistema "human-centered", centrado en el individuo, intuitivo y humano.
 
-- 1984 Aparece el Macintosh de Apple. Apple revolucionó el mercado de la informática personal con este ordenador que ha sido fuente de inspiración para el resto de la industria. El Macintosh fue el primer ordenador con un interface gráfico del usuario en triunfar en el mercado. Su facilidad de uso y encanto lo convirtieron en un producto único y revolucionario. El Macintosh no sólo implementaría un interface gráfico como el inventado en el PARC sino que sería además un sistema "human-centered", centrado en el individuo, intuitivo y humano.
+- **1985: Aparece el Atari ST.** Atari lanza el primer ordenador con interface MIDI (Musical Instrument Digital Interface) incorporado que se convierte automáticamente en un estándar en el sector de la informática musical. El ST incorporaba además del interface MIDI, gráficos en color y ratón por menos de 400 dólares.
 
-- 1985 Aparece el Atari ST. Atari lanza el primer ordenador con interface MIDI (Musical Instrument Digital Interface) incorporado que se convierte automáticamente en un estándar en el sector de la informática musical. El ST incorporaba además del interface MIDI, gráficos en color y ratón por menos de 400 dólares.
+- **1985: Commodore presenta el Amiga 1000.** El Amiga fue el primer ordenador personal multitarea (permitía realizar más de una tarea simultáneamente) y, junto con el Atari ST, puede considerarse el introductor de la multimedia en el mercado doméstico.
 
-- 1985 Commodore presenta el Amiga 1000. El Amiga fue el primer ordenador personal multitarea (permitía realizar más de una tarea simultáneamente) y, junto con el Atari ST, puede considerarse el introductor de la multimedia en el mercado doméstico.
+- **1987: Nace la primera herramienta multimedia: HyperCard.** Bill Atkinson desarrolla HyperCard para el Macintosh. HyperCard era un nuevo tipo de aplicación, un entorno de información único y útil para buscar y guardar todo tipo de información (texto, imágenes, sonido, etc.) y conectarla entre sí. Fue la primera herramienta de autor cuando este término aún no se había ni acuñado.
 
-- 1987 Nace la primera herramienta multimedia: HyperCard. Bill Atkinson desarrolla HyperCard para el Macintosh. HyperCard era un nuevo tipo de aplicación, un entorno de información único y útil para buscar y guardar todo tipo de información (texto, imágenes, sonido, etc.) y conectarla entre sí. Fue la primera herramienta de autor cuando este término aún no se había ni acuñado.
+- **1987: IBM presenta el OS/2.** Sistema operativo con un interface gráfico desarrollado por Microsoft para IBM. Durante meses se polemizó sobre su retraso en ser lanzado al mercado pues Microsoft estaba trabajando paralelamente en su propio sistema gráfico, Windows, que finalmente apareció primero aunque no triunfaría en el mercado hasta la versión 3.1. El OS/2 se demostraría más potente y sofisticado que el propio Windows.
 
-- 1987 IBM presenta el OS/2. Sistema operativo con un interface gráfico desarrollado por Microsoft para IBM. Durante meses se polemizó sobre su retraso en ser lanzado al mercado pues Microsoft estaba trabajando paralelamente en su propio sistema gráfico, Windows, que finalmente apareció primero aunque no triunfaría en el mercado hasta la versión 3.1. El OS/2 se demostraría más potente y sofisticado que el propio Windows.
+- **1989: Time Berners-Lee diseña la World Wide Web.** Berners-Lee, ingeniero inglés de software, creó la WWW para acceder al contenido de Internet a través de un interface gráfico y facilitar así el intercambio de información entre científicos. Este ingeniero, que trabajaba en el CERN en Ginebra, fue el creador de los estándars URL, HTML y HTTP entre otros.
 
-- 1989 Time Berners-Lee diseña la World Wide Web. Berners-Lee, ingeniero inglés de software, creó la WWW para acceder al contenido de Internet a través de un interface gráfico y facilitar así el intercambio de información entre científicos. Este ingeniero, que trabajaba en el CERN en Ginebra, fue el creador de los estándars URL, HTML y HTTP entre otros.
+- **1990: Microsoft lanza Windows 3.0.** Primera versión del interface gráfico de Microsoft en popularizarse. Windows aparecería por primera vez en 1987 pero su excesiva lentitud y gran inestabilidad no permitirían que se extendiese en el mercado ni que los desarrolladores apostaran por él. Con la versión 3.0, un rediseño completo de la anterior con un interface mucho más potente, Windows empieza su camino hacia el éxito (a los cincuenta días de salir al mercado ya había conseguido vender un millón de copias). La siguiente versión, la 3.1, sería su consolidación definitiva y la más extendida hasta la actualidad en que está siendo rápidamente sustituida por Windows 95.
 
-- 1990 Microsoft lanza Windows 3.0. Primera versión del interface gráfico de Microsoft en popularizarse. Windows aparecería por primera vez en 1987 pero su excesiva lentitud y gran inestabilidad no permitirían que se extendiese en el mercado ni que los desarrolladores apostaran por él. Con la versión 3.0, un rediseño completo de la anterior con un interface mucho más potente, Windows empieza su camino hacia el éxito (a los cincuenta días de salir al mercado ya había conseguido vender un millón de copias). La siguiente versión, la 3.1, sería su consolidación definitiva y la más extendida hasta la actualidad en que está siendo rápidamente sustituida por Windows 95.
+- **1993: Aparece Mosaic.** Mosaic fue el primer browser u hojeador de la World Wide Web. Su aparición gratuita en el mercado supuso la popularización mundial de esta gran red y el comienzo de su acceso masivo y universal. Fue desarrollado por Marc Anderseen y sus compañeros del NCSA que más tarde fundarían la empresa Netscape Inc. popular actualmente por su browser Netscape Navigator.
 
-- 1993 Aparece Mosaic. Mosaic fue el primer browser u hojeador de la World Wide Web. Su aparición gratuita en el mercado supuso la popularización mundial de esta gran red y el comienzo de su acceso masivo y universal. Fue desarrollado por Marc Anderseen y sus compañeros del NCSA que más tarde fundarían la empresa Netscape Inc. popular actualmente por su browser Netscape Navigator.
+- **1995: Microsoft lanza Windows 95.** Versión mejorada de Windows que se parece aún más si cabe al sistema operativo del Macintosh. Su lanzamiento en agosto de 1995 se enmarcó en una inmensa campaña de márqueting que sorprendió incluso a sus propios creadores.
 
-- 1995 Microsoft lanza Windows 95. Versión mejorada de Windows que se parece aún más si cabe al sistema operativo del Macintosh. Su lanzamiento en agosto de 1995 se enmarcó en una inmensa campaña de márqueting que sorprendió incluso a sus propios creadores.
+- **1997: Apple lanza el Mac OS 8.** La última versión del sistema operativo de Apple no gozó de la campaña de márqueting de Windows 95 pero le ha situado otro paso por delante del anterior, a pesar de todos los problemas por los que ha pasado la compañía.
 
-- 1997 Apple lanza el Mac OS 8. La última versión del sistema operativo de Apple no gozó de la campaña de márqueting de Windows 95 pero le ha situado otro paso por delante del anterior, a pesar de todos los problemas por los que ha pasado la compañía.
+Fin Cronología.<br>
+[Volver a Indice](#indice)
 
-### Bibliografía
+<br><br>
 
-Babbage, Charles
-Passages from the Life of a Philosopher
-Martin Campbell-Kelly Ed., NJ: IEEE Press, 1994.
+## BIBLIOGRAFIA
 
+- **Babbage, Charles.** "Passages from the Life of a Philosopher".<br>Martin Campbell-Kelly Ed., NJ: IEEE Press, 1994.
+
+- **Bewley, W.L. y T.L. Roberts, D. Schroit y W.L. Verplank.** "Human factor on the design of Xerox's 8010 Star office workstation".<br>En Proceedings of CHI’83, - **1983.
+
+- **Borst, Arno.** "The Ordering of Time: From the Ancient Computus to the Modern Computer".<br>Chicago, IL: University of Chicago Press, 1993.
  
-Bewley, W.L. y T. L. Roberts, D. Schroit y W.L. Verplank
-"Human factor on the design of Xerox's 8010 Star office workstation"
-En Proceedings of CHI’83, 1983
+- **Burke, Colin.** "Information and Secrecy: Vannevar Bush, Ultra, and the Other Memex".<br>Metuchen, NJ: Scarecrow Press, 1994.
 
+- **Bush, Vannevar.** "As we may think".<br>En The Atlantic Monthly, julio 1945.
+
+- **Buxton, H.W.** "Memoir of the Life and Labours of the Late Charles Babbage Esq".<br>MIT Press, Cambridge, Massachusets, 1988.
+
+- **Caddes, Carolyn.** "Portraits of Success: Impressions of Silicon Valley Pioneers".<br>Tioga Publishing Co., Palo Alto, CA, 1986.
+
+- **Clapp, Doug y otros.** "The Macintosh Reader".<br>Random House Electronic Publishing, New York, 1992.
+
+- **Clough, Bryan y Paul Mungo.** "Los piratas del chip. La mafia informática al desnudo".<br>Ediciones B, Barcelona 1992.
+
+- **Cringely, Robert X.** "Accidental Empires".<br>Williams Patrick/Addison Wesley, Reading MA, 1992.
+
+- **Engelbart, D.C. y W.K. English.** "A Research Center for Augmenting Human Intellect".<br>En Proceedings of the FJCC 33 (1968).
+
+- **Engelbart, D.C.** "A conceptual Framework for the Augmentation of Man's Intellect".<br>En Vistas in Information Handling. Londres, VI Spartan Books, 1963.
+
+- **Greenia, Mark W.** "Computers and Computing: History of Computing, A Chronology of the People and Machines that Made Computer History".<br>(En disquete), Lexikon services publishing, Mayo 1995.
+
+- **Henderson, T.B. y D.F. Cobb, G.B. Cobb.** "Spreadsheet Software from Visicalc to 1-2-3".<br>Indianapolis, Que Corp, 1983.
+
+- **Higgins, Steve.** "3COM founder reflects on past, future".<br>En PC Week, junio 18, 1990.
  
-
-Borst, Arno
-The Ordering of Time: From the Ancient Computus to the Modern Computer
-Chicago, IL: University of Chicago Press, 1993
+- **Hyman, Anthony.** "Charles Babbage: Pioneer of the Computer".<br>Prenceton University Press, Princeton, 1983.
  
+- **Johnson, Jeff y otros.** "The Xerox Star: A retrospective".<br>En Computer 22, nº 9 (setiembre 1989).
 
-Burke, Colin
-Information and Secrecy: Vannevar Bush, Ultra, and the Other Memex.
-Metuchen, NJ: Scarecrow Press, 1994
-
-
-Bush, Vannevar
-"As we may think"
-En The Atlantic Monthly, julio 1945
-
+- **Kay, A.** "Inventing the Future (Computer Industry)".<br>En AI Business: The Commercial Uses of Artificial Intelligence, Cambridge, MA: MIT Press, 1984.
  
-Buxton, H.W.
-Memoir of the Life and Labours of the Late Charles Babbage Esq
-MIT Press, Cambridge, Massachusets, 1988
-
-
-Caddes, Carolyn
-Portraits of Success: Impressions of Silicon Valley Pioneers
-Tioga Publishing Co., Palo Alto, CA, 1986
-
-
-Clapp, Doug y otros
-The Macintosh Reader
-Random House Electronic Publishing, New York, 1992
-
-
-Clough, Bryan y Paul Mungo
-Los piratas del chip. La mafia informática al desnudo.
-Ediciones B, Barcelona 1992
-
-
-Cringely, Robert X.
-Accidental Empires
-Williams Patrick/Addison Wesley, Reading MA, 1992
-
-
-Engelbart, D.C. y W. K.English
-"A Research Center for Augmenting Human Intellect"
-En Proceedings of the FJCC 33 (1968).
-
-
-Engelbart, D.C
-"A conceptual Framework for the Augmentation of Man's Intellect"
-En Vistas in Information Handling
-Londres, VI Spartan Books, 1963
-
-
-Greenia, Mark W.
-Computers and Computing: History of Computing, A Chronology of the People and Machines that Made Computer History
-(En disquete), Lexikon services publishing, Mayo 1995
-
-
-Henderson, T.B. y D. F. Cobb, G. B. Cobb
-Spreadsheet Software from Visicalc to 1-2-3
-Indianapolis, Que Corp, 1983
-
-
-Higgins, Steve
-"3COM founder reflects on past, future"
-En PC Week, junio 18, 1990
+- **Kerns, D.T. y David A. Nadler.** "Prophets in the Dark".<br>New York, HarperCollins Publishers, 1992.
  
-
-Hyman, Anthony
-Charles Babbage: Pioneer of the Computer
-Prenceton University Press, Princeton, 1983
+- **Lazere, Cathy, y Dennis Sasha.** "Out of their minds: the lives and discoveries of 15 great computer scientists".<br>Dub-Copernicus, New York, 1995.
  
+- **Lee, J.A.N.** "Computer Pioneers".<br>Los Alamitos, Ca: IEEE Computer Society Press, 1994.
 
-Johnson, Jeff y otros
-"The Xerox Star: A retrospective"
-En Computer 22, nº 9 (setiembre 1989).
+- **Levitus Bob y Michael Fraase.** "Guide to the Macintosh underground. Mac culture from the inside".<br>Hayden Books, Indianapolis, 1993.
 
+- **Levy, Steven.** "Hackers: Heroes of the Computer Revolution".<br>Anchor Press/Doubleday, Garden City, NY, 1984.
+
+- **Levy, Steven.** "Insanely Great".<br>Penguin Books, New York, 1994.
+
+- **Linzmayer, Owen.** "The Mac Bathroom reader".<br>SYBEX, San Francisco, 1994.
+
+- **Metcalfe, Robert M.** "How Ethernet Was Invented".<br>En Annals of the History of Computing, 16:4 (1994).
+
+- **Nelson, Ted.** "Computer Lib/Dream Machines".<br>Microsoft Press, 1987.
+
+- **Nelson, Ted.** "Literary Maachines".<br>Edición electrónica de OWL International, Inc. Bellevue Washington, 1987.
+
+- **Nelson, Ted.** "On the Xanadu project".<br>En Byte volumen 15 (setiembre 1990).
  
-Kay, A.
-"Inventing the Future (Computer Industry)"
-En AI Business: The Commercial Uses of Artificial Intelligence, Cambridge, MA: MIT Press, 1984.
+- **Norman, Donald A.** "The Design of Everyday Things".<br>Basic Books, 1988.
+
+- **Nyce, James M. y Paul Kahn.** "From Memex to Hypertext: Vannevar Bush and the Mind's Machine".<br>En Academic Press, 1991.
  
-
-Kerns, D.T. y David A. Nadler
-Prophets in the Dark
-New York, HarperCollins Publishers, 1992
+- **Moseley, Maboth.** "Irascible Genius: a Life of Charles Babbage, Inventor".<br>Hutchinson, Londres, 1964.
  
+- **Pitta, Julie.** "Who and What Made Park an Industry Legend".<br>En Los Angeles Times, September 13, 1995.
 
-Lazere, Cathy, y Dennis Sasha
-Out of their minds: the lives and discoveries of 15 great computer scientists
-Dub-Copernicus, New Your 1995
+- **Preece, Jenny.** "Human-Computer Interaction".<br>Addison-Wesley, 1994.
+
+- **Prevost Babbage, Heny.** "Babbage's Calculating Engines: A Collection of Papers".<br>Tomash, Los Angeles 1982.
+
+- **Ryan, Bob.** "Dynabook Revisited with Alan Kay".<br>En Byte, vol 16, febrero 1991.
  
+- **Saffo, Paul.** "The Alto: Today's Technology Yesterday".<br>En Personal Computing, June 1989.
 
-Lee, J.A.N.
-Computer Pioneers
-Los Alamitos, Ca: IEEE Computer Society Press, 1994
+- **Santa Clara Valley Historical Association.** "The making of Silicon Valley: A one hundred year renaissance".<br>Ward Winslow Editor, 1995.
  
+- **Shneiderman, B.** "Designing the User Interface: Strategies for Effective Human-Computer Interaction".<br>2ª Edición, Addison-Wesley, 1992.
 
-Levitus Bob y Michael Fraase
-Guide to the Macintosh underground. Mac culture from the inside
-Hayden Books, Indianapolis, 1993
+- **Slater, Robert.** "Portraits in Silicon".<br>MIT Press, Cambridge MA, 1987.
  
-
-Levy, Steven
-Hackers: Heroes of the Computer Revolution
-Anchor Press/Doubleday, Garden City, NY, 1984
+- **Shirley, Robin.** "Altair and After: The Original PC Revolution".<br>En Computer Resurrection: The Bulletin of the Computer Conservation Society, 5 (1993).
  
-
-Levy, Steven
-Insanely Great
-Penguin Books, New York, 1994
+- **Smith, D.C. y otros.** "Designing the Star User Interface".<br>En Byte , Abril 1982.
  
+- **Smith, D.C. y otros.** "The Star User Interface: An overview".<br>En AFIPS, 1982, National Computer Conference.
 
-Linzmayer, Owen
-The Mac Bathroom reader
-SYBEX, San Francisco, 1994
+- **Smith, Douglas K. y Robert C. Alexander.** "Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer".<br>Morrow, New York, 1988.
+
+- **Sutherland, Ivan E.** "Sketchpad - A Man-Machine Graphical Communication System".<br>En MIT Lincoln Laboratory Technical Report 196, 1963.
+
+- **Tesler, Larry.** "The Legacy of the Lisa".<br>En MacWorld (Setiembre 1985).
+
+- **Tognazzini, Bruce.** "Tog on software dessign".<br>Addison Wesley Developers Press, New York, 1996.
+
+- **Zachary, G. Pascal.** "The Godfather".<br>En Wired, noviembre 1997.
  
-
-Metcalfe, Robert M.
-"How Ethernet Was Invented"
-En Annals of the History of Computing, 16:4 (1994).
+- **Zientara, Marguerite.** "History of Computing: a Biographical Portrait of the Visionaries who Shaped the Destiny of the Computer Industry".<br>CW Communications Inc., Framingham, Massachusetts, 1981.
  
-
-Nelson, Ted
-Computer Lib/Dream Machines
-Microsoft Press 1987
+- **Young, Jeffrey S.** "Steve Jobs: The Journey is the Reward".<br>Scott, Foresman and Co., Glenview IL. 1988.
  
+### En Internet:
 
-Nelson, Ted
-Literary Maachines
-Edición electrónica de OWL International, Inc. Bellevue Washington, 1987
- 
+- "As we may think" de Vannebar Bush. [link](https://web.archive.org/web/20160207203613/http://iibi.unam.mx/~voutssasmt/documentos/Vannevar_Bush_Como%20podriamos%20_Pensar_JV.pdf)
 
-Nelson, Ted
-"On the Xanadu project"
-En Byte volumen 15 (setiembre 1990)
- 
+- "Project World Wide Web", el proyecto del CERN a iniciativa de Tim Berners-Lee. [link](https://info.cern.ch/hypertext/WWW/TheProject.html)
 
-Norman, Donald A.
-The Design of Everyday Things
-Basic Books, 1988
- 
+- "Human factor on the design of Xerox's 8010 Star office workstation", los principios de trabajo de W. L. Bewley, T. L. Roberts, D. Schroit y W.L. Verplank en el PARC. [link](http://billverplank.com/bewley83.pdf)
 
-Nyce, James M. y Paul Kahn
-"From Memex to Hypertext: Vannevar Bush and the Mind's Machine"
-En Academic Press, 1991
- 
+- "Xanadu", el proyecto basado en el hipertexto de Ted Nelson. [link](https://www.xanadu.net/)
 
-Moseley, Maboth
-Irascible Genius: a Life of Charles Babbage, Inventor
-Hutchinson, Londres, 1964
- 
+- "Richmond Journal of Law & Technology" publicación con abundante información sobre el litigio entre Apple y Microsoft por el diseño del interface de Windows
 
-Pitta, Julie
-"Who and What Made Park an Industry Legend"
-En Los Angeles Times, September 13, 1995
- 
-
-Preece, Jenny
-Human-Computer Interaction
-Addison-Wesley 1994
-
-
-Prevost Babbage, Heny
-Babbage's Calculating Engines: A Collection of Papers
-Tomash, Los Angeles 1982
- 
-
-Ryan, Bob
-"Dynabook Revisited with Alan Kay"
-En Byte, vol 16, febrero 1991.
- 
-
-Saffo, Paul
-"The Alto: Today's Technology Yesterday"
-En Personal Computing, June 1989
-
-
-Santa Clara Valley Historical Association
-The making of Silicon Valley: A one hundred year renaissance
-Ward Winslow Editor, 1995
- 
-
-Shneiderman, B.
-Designing the User Interface: Strategies for Effective Human-Computer Interaction
-2ª Edición, Addison-Wesley, 1992
- 
-
-Slater, Robert
-Portraits in Silicon
-MIT Press, Cambridge MA, 1987
- 
-
-Shirley, Robin
-"Altair and After: The Original PC Revolution"
-En Computer Resurrection: The Bulletin of the Computer Conservation Society, 5 (1993).
- 
-
-Smith, D. C. y otros
-"Designing the Star User Interface".
-En Byte , Abril 1982.
- 
-
-Smith, D. C. y otros
-"The Star User Interface: An overview".
-En AFIPS, 1982, National Computer Conference.
-
- 
-Smith, Douglas K. y Robert C. Alexander
-Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer
-Morrow, New York, 1988
-
-
-Sutherland, Ivan E.
-"Sketchpad - A Man-Machine Graphical Communication System"
-En MIT Lincoln Laboratory Technical Report 196, 1963
- 
-
-Tesler, Larry
-"The Legacy of the Lisa"
-En MacWorld (Setiembre 1985).
-
-
-Tognazzini, Bruce
-Tog on software dessign
-Addison Wesley Developers Press, New York, 1996
- 
-
-Zachary, G. Pascal
-"The Godfather"
-En Wired, noviembre 1997
- 
-
-Zientara, Marguerite
-History of Computing: a Biographical Portrait of the Visionaries who Shaped the Destiny of the Computer Industry
-CW Communications Inc., Framingham, Massachusetts, 1981
- 
-
-Young, Jeffrey S.
-Steve Jobs: The Journey is the Reward
-Scott, Foresman and Co., Glenview IL. 1988
- 
-
-En Internet:
-
-"As we may think" de Vannebar Bush
-
-"Project World Wide Web", el proyecto del CERN a iniciativa de Tim Berners-Lee
-
-"Human factor on the design of Xerox's 8010 Star office workstation", los principios de trabajo de W. L. Bewley, T. L. Roberts, D. Schroit y W.L. Verplank en el PARC.
-
-"Xanadu", el proyecto basado en el hipertexto de Ted Nelson
-
-"Richmond Journal of Law & Technology" publicación con abundante información sobre el litigio entre Apple y Microsoft por el diseño del interface de Windows
-
+Fin Bibliografía.<br>
 [Volver a Indice](#indice)
 
 <br><br>
